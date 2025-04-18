@@ -1,0 +1,6 @@
+numpy>=1.10
+gdal
+bokeh
+pandas
+netCDF4
+pyTSEB
